@@ -4,7 +4,7 @@ Convolutional Neural Network to deblur the images. A 20 layer DnCNN trained to r
 ## Architecture of DnCNN used
 <table>
  <tr>
-  <td bgcolor="orange">Hello</td>
+  <td bgcolor="aqua">Hello</td>
  </tr>
  <tr>
   <td>Hello</td>
