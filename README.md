@@ -10,14 +10,14 @@ Results
   <th>Deblurred Image (Output of DeblurCNN)</th>
  </tr>
  <tr>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Q1.jpg" width="70%" height="70%"></td>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Qb1.jpg" width="70%" height="70%"></td>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Y1.jpg" width="70%" height="70%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Q1.jpg" width="100%" height="100%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Qb1.jpg" width="100%" height="100%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Y1.jpg" width="100%" height="100%"></td>
  </tr>
  <tr>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Q1.jpg" width="70%" height="70%"></td>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Qb1.jpg" width="70%" height="70%"></td>
-  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Y1.jpg" width="70%" height="70%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Q1.jpg" width="100%" height="100%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Qb1.jpg" width="100%" height="100%"></td>
+  <td><img src="https://github.com/rohit-pardasani/DeblurCNN/blob/master/MyDatasetTest/Y1.jpg" width="100%" height="100%"></td>
  </tr>
 </table>
 
