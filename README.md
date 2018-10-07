@@ -1,7 +1,7 @@
 # DeblurCNN
 Convolutional Neural Network to deblur the images. A 20 layer DnCNN trained to remove blur introduced by averaging filter.
 
-# Architecture of DnCNN used
+## Architecture of DnCNN used
 <table>
  <tr>
   <td>Hello</td>
@@ -11,7 +11,7 @@ Convolutional Neural Network to deblur the images. A 20 layer DnCNN trained to r
  </tr>
  </table>
  
-# Some Results
+## Some Results
 
 <table>
  <tr>
