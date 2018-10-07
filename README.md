@@ -4,10 +4,28 @@ Convolutional Neural Network to deblur the images. A 20 layer DnCNN trained to r
 ## Architecture of DnCNN used
 <table bgcolor:"red">
  <tr>
-  <td> Hello </td>
+  <td>Convolution Layer - 1 (3 x 3 kernel) (Input Channels = 3) (Output Channels = 64)</td>
  </tr>
  <tr>
-  <td>Hello</td>
+  <td>Activation (ReLU)</td>
+ </tr>
+ <tr>
+ <td>Convolution Layer - 2 (3 x 3 kernel) (Input Channels = 3) (Output Channels = 64)</td>
+ </tr>
+ <tr>
+  <td>Batch Normalization</td>
+ </tr>
+ <tr>
+  <td>Activation (ReLU)</td>
+ </tr>
+ <tr>
+ <td>Convolution Layer - 3 (3 x 3 kernel) (Input Channels = 3) (Output Channels = 64)</td>
+ </tr>
+ <tr>
+  <td>Batch Normalization</td>
+ </tr>
+ <tr>
+  <td>Activation (ReLU)</td>
  </tr>
  </table>
  
